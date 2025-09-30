@@ -1,3 +1,15 @@
+.adobe.
+.autodesk.
+.chaos.
+.chaosgroup.
+.sketchup.
+.trimble.
+.adobe.vn
+.autodesk.vn
+.chaos.vn
+.chaosgroup.vn
+.sketchup.vn
+.trimble.vn
 #Block_Adobe#
 .adobe.com
 .adobe.io
